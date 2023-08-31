@@ -1,0 +1,4 @@
+- Khởi tạo dự án: -> git init 
+- 
+
+h1
